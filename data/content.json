@@ -2,10 +2,448 @@
   "facebook": [
     {
       "url": "https://www.thecrimson.com/article/2004/2/9/hundreds-register-for-new-facebook-website/",
-      "date_published": "09-02-2004",
+      "date_published": "9-Feb-04",
       "title": "Hundreds Register for New Facebook Website",
-      "description": "When Mark E. Zuckerberg ’06 grew impatient with the creation of an official universal Harvard facebook, he decided to take matters into his own hands.",
+      "description": "Citing Toxic Culture and Administrator Departures, Harvard School of Public Health Faculty Repeatedly Weighed Voting No Confidence in Dean",
       "published_by": "www.thecrimson.com"
+    },
+    {
+      "url": "http://www.thecrimson.com/article/2004/3/1/facebook-expands-beyond-harvard-harvard-students/",
+      "date_published": "1-Mar-04",
+      "title": "Facebook Expands Beyond Harvard",
+      "description": "Citing Toxic Culture and Administrator Departures, Harvard School of Public Health Faculty Repeatedly Weighed Voting No Confidence in Dean",
+      "published_by": "www.thecrimson.com"
+    },
+    {
+      "url": "http://www.thecrimson.com/article/2004/6/10/mark-e-zuckerberg-06-the-whiz/",
+      "date_published": "10-Jun-04",
+      "title": "Mark E. Zuckerberg ’06: The whiz behind thefacebook.com",
+      "description": "Citing Toxic Culture and Administrator Departures, Harvard School of Public Health Faculty Repeatedly Weighed Voting No Confidence in Dean",
+      "published_by": "www.thecrimson.com"
+    },
+    {
+      "url": "http://www.thecrimson.com/article/2004/9/15/facing-off-over-the-facebook-theres/",
+      "date_published": "15-Sep-04",
+      "title": "Facing Off Over The Facebook",
+      "description": "Citing Toxic Culture and Administrator Departures, Harvard School of Public Health Faculty Repeatedly Weighed Voting No Confidence in Dean",
+      "published_by": "www.thecrimson.com"
+    },
+    {
+      "url": "http://www.thecrimson.com/article/2005/5/27/firm-invests-13m-in-facebook-a/",
+      "date_published": "27-May-05",
+      "title": "Firm Invests $13M in Facebook",
+      "description": "Citing Toxic Culture and Administrator Departures, Harvard School of Public Health Faculty Repeatedly Weighed Voting No Confidence in Dean",
+      "published_by": "www.thecrimson.com"
+    }
+  ],
+  "instagram": [
+    {
+      "url": "https://techcrunch.com/2010/03/05/burbn-funding/",
+      "date_published": "5-Mar-10",
+      "title": "Burbn's Funding Goes Down Smooth. Baseline, Andreessen Back Stealthy Location Startup. – TechCrunch",
+      "description": "For the past several weeks, there have been quite a few whispers around the web about a new service called Burbn. Besides having a great name, the service is apparently in a very hot space right now: location-based services. I say \"apparently,\" because the service is still very much a stealth project. But it's not so stealth that they can't get a seed round of funding.\n\nBurbn has just closed a $500,000 seed round, we're hearing. According to sources, both Baseline Ventures and Andreessen Horowitz participated in the round. From what we can tell, right now, Burbn is just a one-man shop: Kevin Systrom, a former Googler. With the funding, you can probably expect that to change soon.",
+      "published_by": "techcrunch.com"
+    },
+    {
+      "url": "http://www.zdnet.com/article/drinking-the-burbn-a-new-location-game/",
+      "date_published": "29-Apr-10",
+      "title": "Drinking the Burbn: a new location game",
+      "description": "It's a bold move to build a social location app today, but Kevin Systorm doesn't care about that.I was introduced to Burbn by a friend who claimed, \"it's like a Foursquare game\".",
+      "published_by": "www.zdnet.com"
+    },
+    {
+      "url": "https://techcrunch.com/2010/09/20/instagram/",
+      "date_published": "20-Sep-10",
+      "title": "Distilled From Burbn, Instagram Makes Quick Beautiful Photos Social (Preview) – TechCrunch",
+      "description": "For about the past six months or so, I've been using an app called Burbn. Despite being in stealth mode, the app attracted quite a bit of buzz as it was in the location space and built entirely in HTML5. Oh, and the $500,000 investment from  Baseline Ventures and Andreessen Horowitz helped gather interest as well. But it turns out Burbn was a red herring of sorts. Or perhaps more appropriately, it was a testing ground. The product that emerged is much better: Instagram.\n\nUnlike Burbn, Instagram is neither a location-based app (though that is one component), nor is it HTML5-based. But it did spring out of the way co-founders Kevin Systrom and Mike Krieger saw people using Burbn. That is: quick, social sharing -- and a desire to share photos from places. That's the foundation of Instagram.",
+      "published_by": "techcrunch.com"
+    },
+    {
+      "url": "http://venturebeat.com/2010/10/06/instagram-iphone-photo-sharing/",
+      "date_published": "6-Oct-10",
+      "title": "Instagram wants to be the \"go-to\" app for iPhone photo-sharing",
+      "description": "While there are tons of cool photo-editing applications for the iPhone, a new app called Instagram stands out as being particularly ambitious.",
+      "published_by": "venturebeat.com"
+    },
+    {
+      "url": "http://www.businessinsider.com/instagram-taking-off-2010-11",
+      "date_published": "1-Nov-10",
+      "title": "Instagram, The Photo App For The Cool Kids, Is Taking Off",
+      "description": "\n    \n  \n  \n  \n  \n  \n    \n  \n  \n  \n    \n      \n        <a href=\"http://www.businessinsider.com/instagram-2010-11#heres-what-it-looks-like-when-you-fire-up-the-instagram-app-lets-create-a-new-account-first-1\">Click here for our tour of Instagram &rarr;</a>\n      \n      \n      \n      \n    \nInstagram founders Kevin Systrom and Mike Krieger are -- today, at least -- living the startup dream.",
+      "published_by": "www.businessinsider.com"
+    },
+    {
+      "url": "http://mashable.com/2010/12/21/instagram-1-million",
+      "date_published": "21-Dec-10",
+      "title": "Instagram Catapults to 1 Million Registered Users",
+      "description": "Photo-sharing app Instagram has just hit a major milestone: 1 million registered users. The free iPhone app hit the App Store in early October, gaining an impressive 100,000 sig...",
+      "published_by": "mashable.com"
+    }
+  ],
+  "whatsapp": [
+    {
+      "url": "http://www.flyertalk.com/forum/travel-technology/952359-thoughts-about-my-free-iphone-app-whatsapp.html",
+      "date_published": "9-May-09",
+      "title": "Thoughts about my free iphone app - WhatsApp - FlyerTalk Forums",
+      "description": "Travel Technology - Thoughts about my free iphone app - WhatsApp - hi there, i hate shameless self promotion, but i couldn't resist posting here because i wrote this app with people like us in mind (those who travel a lot) ever since i semi-retired a little over a year ago, i been traveling A LOT and i hated it when",
+      "published_by": "www.flyertalk.com"
+    },
+    {
+      "url": "https://blog.whatsapp.com/72/WhatsApp-2.0-is-submitted",
+      "date_published": "27-Aug-09",
+      "title": "WhatsApp தளம்",
+      "description": "We submitted WhatsApp 2.0 into the App Store last night.  It will probably take around two weeks for it to get reviewed and approved.\nYou will love the feature we added.",
+      "published_by": "blog.whatsapp.com"
+    },
+    {
+      "url": "http://www.makeuseof.com/tag/whatsapp-the-perfect-iphone-messenger-app/",
+      "date_published": "30-Nov-09",
+      "title": "WhatsApp - The Perfect iPhone Messenger App",
+      "description": "I have to be honest here. This find cannot be credited to me. I was merely informed about it. The App Store is very clustered and filled so many apps that",
+      "published_by": "www.makeuseof.com"
+    },
+    {
+      "url": "http://iphone.appstorm.net/reviews/lifestyle/whatsapp-instant-messaging-for-the-iphone-elite/",
+      "date_published": "25-Mar-10",
+      "title": "Change of Address",
+      "description": "Our site has moved to a new address. Please note the change of address.",
+      "published_by": "iphone.appstorm.net"
+    },
+    {
+      "url": "http://crackberry.com/review-whatsapp-messenger-blackberry-smartphones",
+      "date_published": "27-Apr-10",
+      "title": "Review: WhatsApp Messenger for BlackBerry Smartphones",
+      "description": "In a perfect world, everyone would be using BlackBerrys. Actually, in a perfect world, I should be getting a lot more data for a lot less. Unfortunately, for both issues, we live in the real world. We all have friends and family that use other smartphones, regardless if they defected from the BlackBerry or were otherwise forced to leave. Those empty, silent BlackBerry",
+      "published_by": "crackberry.com"
+    },
+    {
+      "url": "http://www.macworld.com/article/1154180/whatsapp_messenger.html",
+      "date_published": "20-Sep-10",
+      "title": "WhatsApp Messenger for iPhone",
+      "description": "This clever iPhone app lets you stay in touch with friends without incurring SMS charges from AT&T. WhatsApp Messenger provides an alternative texting service that closely resembles standard SMS text messaging.",
+      "published_by": "www.macworld.com"
+    },
+    {
+      "url": "http://thenextweb.com/apps/2011/10/31/whatsapp-users-now-send-over-one-billion-messages-a-day/",
+      "date_published": "1-Nov-11",
+      "title": "WhatsApp users now send over one billion messages a day - The Next Web",
+      "description": "WhatsApp is growing fast, even with Apple iMessages launched. The fact that the app is on every major smart phone helps too.",
+      "published_by": "thenextweb.com"
+    }
+  ],
+  "uber": [
+    {
+      "url": "https://techcrunch.com/2010/07/05/ubercab-takes-the-hassle-out-of-booking-a-car-service/",
+      "date_published": "5-Jul-10",
+      "title": "UberCab Takes The Hassle Out Of Booking A Car Service – TechCrunch",
+      "description": "Finding a cab, especially during peak travel times or in less-traveled areas, can be an incredibly frustrating task. But car services are often much more expensive than the average cab ride. Enter UberCab, a new service that offers an on-demand car service via an iPhone app or SMS.\n\nAfter signing up for an UberCab account and downloading the free iPhone app,  you can then set your location and request a car service from the application.  The app will determine your location and you can set your exact pickup location. UberCab will then send your request to their network of drivers who happen to be in the area.",
+      "published_by": "techcrunch.com"
+    },
+    {
+      "url": "http://www.zdnet.com/article/ubercab-a-step-above-the-yellow-taxi/",
+      "date_published": "6-Aug-10",
+      "title": "Ubercab: a step above the yellow taxi",
+      "description": "I got light of a new service called Ubercab from my friend Matt Hunter a few weeks ago, and I finally tried it out today.The service is way simpler than flagging down a regular taxicab, and only a small percentage more expensive.",
+      "published_by": "www.zdnet.com"
+    },
+    {
+      "url": "http://www.thecarconnection.com/news/1050719_ubercab-simplifies-urban-transit-but-will-it-lead-to-anarchy",
+      "date_published": "22-Oct-10",
+      "title": "UberCab Simplifies Urban Transit, But Will It Lead To Anarchy?",
+      "description": "If you live in a major U.S. city, you've probably taken your share of cabs. When it's raining, or when the nearest subway stop is a tad too far, cabs are a great resource. But even better than the cab is the car service -- elegant and clean and not much more expensive than a run-of-the-mill taxi. Only problem is, you usually need to set an appointment for...",
+      "published_by": "www.thecarconnection.com"
+    },
+    {
+      "url": "https://techcrunch.com/2010/10/24/ubercab-ordered-to-cease-and-desist/",
+      "date_published": "24-Oct-10",
+      "title": "UberCab Ordered to Cease And Desist – TechCrunch",
+      "description": "Did Ubercab just crash and burn? Taxi and limo industry insiders in California today informed TechCrunch that the San Francisco Metro Transit Authority & the Public Utilities Commission of California have ordered the startup to cease and desist.\n\nUPDATE: Since the orders arrived on October 20th, Ubercab has remained in service under threat of penalties including up to $5,000 fee per instance of Ubercab’s operation, and potentially 90 days in jail per each day the company remains in operation past the orders.\n\nThe company's brand name and logo appear to be in metamorphosis; on its website and blog, Ubercab's logo now reads simply \"Uber,\" and the company commented to its own Facebook community yesterday afternoon, \"more uber than cab.\"",
+      "published_by": "techcrunch.com"
+    },
+    {
+      "url": "http://venturebeat.com/2010/10/26/ubercab-ryan-graves-cease-and-desit/",
+      "date_published": "26-Oct-10",
+      "title": "Uber(Cab) CEO: No plans to shut down despite legal spat",
+      "description": "Uber (formerly UberCab), an iPhone application that helps users find rides from limos and town cars, got into some legal trouble this week — city and state agencies from both San Francisco and California sent the company cease-and-desist letters. But when I talked to chief executive Ryan Graves las…",
+      "published_by": "venturebeat.com"
+    },
+    {
+      "url": "https://www.cnet.com/roadshow/news/uber-lives-on-despite-sfmta-cease-and-desist/",
+      "date_published": "14-Dec-10",
+      "title": "Uber lives on despite SFMTA cease-and-desist - Roadshow",
+      "description": "Uber (formerly UberCab), which received a cease-and-desist order from the San Francisco Municipal Transportation Authority, is alive and kicking despite the SF taxi commission's best attempt at squelching the private car network. In fact, the company is looking to expand in 2011.",
+      "published_by": "www.cnet.com"
+    }
+  ],
+  "airbnb": [
+    {
+      "url": "https://www.cnet.com/news/rent-your-house-or-couch-by-the-day-with-airbed-breakfast/",
+      "date_published": "2-Jun-08",
+      "title": "Rent your house or couch by the day with AirBed & Breakfast - CNET",
+      "description": "Tool is set up like a hotel booking service, enabling people in need of a place to stay an easy way to browse open accommodations by city.",
+      "published_by": "www.cnet.com"
+    },
+    {
+      "url": "https://techcrunch.com/2008/08/11/airbed-and-breakfast-takes-pad-crashing-to-a-whole-new-level/",
+      "date_published": "11-Aug-08",
+      "title": "AirBed And Breakfast Takes Pad Crashing To A Whole New Level – TechCrunch",
+      "description": "Can’t find a hotel for TechCrunch50 or the next conference you are going to? If you don’t mind roughing it, try AirBed and Breakfast. Anyone with an airbed (or couch) can “post a room” and how much it costs. Thrifty travelers can make reservations on the site and pay for the stay. The site is […]",
+      "published_by": "techcrunch.com"
+    },
+    {
+      "url": "http://www.apartmenttherapy.com/airbedandbreakfastcom-75158",
+      "date_published": "28-Jan-09",
+      "title": "Access to this page has been denied.",
+      "description": " Please make sure that Javascript and cookies are enabled on your browser and that you are not blocking them from loading. ",
+      "published_by": "www.apartmenttherapy.com"
+    },
+    {
+      "url": "https://techcrunch.com/2009/03/04/y-combinators-airbed-and-breakfast-casts-a-wider-net-for-housing-rentals-as-airbnb/",
+      "date_published": "4-Mar-09",
+      "title": "Y Combinator's Airbed And Breakfast Casts A Wider Net For Housing Rentals As AirBnB – TechCrunch",
+      "description": "AirBed and Breakfast, an online portal for renting space on a stranger's airbed or couch, has re-launched its website to AirBnB, an eBay-like marketplace for all accommodations. Now a Y-Combinator start-up (the startup is currently in the winter session of the incubator), AirBnB, which launched as AirBed and Breakfast last August, found that users wanted to use the site for more than just renting space in someone's house and were actively posting rental listings for apartments, houses and vacation rentals. The founders, San Francisco designers Joe Gebbia and Brian Chesky, and software engineer Nathan Blecharczyk, quickly realized that increased and varied choice is more appealing for consumers and are now re-branding their site to incorporate a variety of local accommodation options.\n\nThere is also a monetary benefit to opening up the site, says Chesky. For each rental, AirBnB takes a 7 to 10 percent cut of the traveler's payment (as the rental price of the accommodation goes up, AirBnB will take less of a cut) and also takes a flat 3 percent cut of what the seller receives. With an increase in number of listings and a greater amount of pricier listings, AirBnB has had a jump in the number of transactions and seen a 50 percent jump in revenue plus created a profit. Vacation rentals can be a big business. Recently, HomeAway, a popular vacation rental site, raised $250 million in a venture round and was valued at more than $1 billion.",
+      "published_by": "techcrunch.com"
+    },
+    {
+      "url": "http://lifehacker.com/5319776/airbnb-finds-a-place-to-stay-on-the-cheap",
+      "date_published": "22-Jul-09",
+      "title": "AirBnB Finds a Place to Stay On the Cheap",
+      "description": "Looking to see the sights but not looking forward to paying high hotel prices? Take advantage of AirBnB to find some nice, usually economical, local accommodations.",
+      "published_by": "lifehacker.com"
+    }
+  ],
+  "twitter": [
+    {
+      "url": "https://www.flickr.com/photos/jackdorsey/188430472",
+      "date_published": "12-Jul-06",
+      "title": "twttr today",
+      "description": "A long way.  Still in motion.",
+      "published_by": "www.flickr.com"
+    },
+    {
+      "url": "https://techcrunch.com/2006/07/15/is-twttr-interesting/",
+      "date_published": "15-Jul-06",
+      "title": "Odeo Releases Twttr – TechCrunch",
+      "description": "Odeo released a new service today called Twttr, which is a sort of “group send” SMS application. Each person controls their own network of friends. When any of them send a text message to “40404,” all of his or her friends see the message via sms. This launched officially today, and a few select insiders […]",
+      "published_by": "techcrunch.com"
+    },
+    {
+      "url": "https://gigaom.com/2006/07/15/valleys-all-twttr/",
+      "date_published": "15-Jul-06",
+      "title": "Silicon Valley’s All Twttr – Gigaom",
+      "description": "Dodgeball is so New York! In Silicon Valley, its all Twttr! Twttr is a new mobile social networking application written by Noah…",
+      "published_by": "gigaom.com"
+    },
+    {
+      "url": "http://sms411.net/2006/07/twttr-keep-track-of-your-friends-via-sms/",
+      "date_published": "30-Jul-06",
+      "title": "Twttr (aka Twitter): Keep track of your friends via SMS « SMS 411",
+      "description": "Everything you need to know about SMS text messaging with your mobile phone.",
+      "published_by": "sms411.net"
+    },
+    {
+      "url": "http://anildash.com/2007/02/consider-twitte.html",
+      "date_published": "14-Feb-07",
+      "title": "Anil Dash",
+      "description": "Every day, millions of people rely on independent websites that are mostly created by regular people, weren't designed as mobile apps, connect deeply to culture, and aren't run by the giant tech companies. These are a vision of not just",
+      "published_by": "anildash.com"
+    },
+    {
+      "url": "https://laughingsquid.com/twitter-wins-sxsw-web-award/",
+      "date_published": "11-Mar-07",
+      "title": "Twitter Wins SXSW Web Award",
+      "description": "Twitter won the SXSW Web Award tonight in the \"Blog\" category. Of course everyone immediately Twittered that Twitter won, causing massive waves of SMS",
+      "published_by": "laughingsquid.com"
+    },
+    {
+      "url": "http://searchengineland.com/twitter-more-than-messaging-it-can-generate-traffic-10949",
+      "date_published": "10-Apr-07",
+      "title": "Twitter: More Than Messaging, It Can Generate Traffic - Search Engine Land",
+      "description": "Twitter is a new and hot social site that everyone seems to be talking about but very few people are leveraging. Twitter is still in its infancy, but it can still drive hundreds, if not thousands of visitors.",
+      "published_by": "searchengineland.com"
+    },
+    {
+      "url": "http://mediashift.org/2007/05/twitter-founders-thrive-on-micro-blogging-constraints137/",
+      "date_published": "17-May-07",
+      "title": "Twitter Founders Thrive on Micro-Blogging Constraints - MediaShift",
+      "description": "Jack Dorsey Twitter CEO Jack Dorsey and co-founder Biz Stone have taken executive transparency to new heights, not only using their own Twitter micro-blogging service frequently to share details of their personal lives, but also publishing their own phone numbers and business address on Twitter&#821...",
+      "published_by": "mediashift.org"
+    }
+  ],
+  "spotify": [
+    {
+      "url": "http://www.theregister.co.uk/2009/02/12/spotify_review/",
+      "date_published": "12-Feb-09",
+      "title": "Spotify: We kick the tyres • The Register",
+      "description": "Review Spotify, which opened up to all UK users this week, is a streaming music access service that's gathered an ecstatic response from some users. It's even \"made illegal file sharing look like too much hard work\" according to one Reg commenter. That's a pretty big claim - but then it's a pretty ambitious service. So what it is Spotify, and how does it stack up? And in an unforgiving commercial environment, will it last longer than a bat of a eyelid?",
+      "published_by": "www.theregister.co.uk"
+    },
+    {
+      "url": "https://www.wired.com/2009/07/spotify-set-to-take-america-by-storm/",
+      "date_published": "22-Jul-09",
+      "title": "Spotify Set to Take America by Storm",
+      "description": "Spotify is coming to America, and like any immigrant, has dreams of making it big here — but no illusions that it will be easy. With an application that seems like a magical, all-encompassing version of iTunes, giving access to over 6 million tracks on demand, Spotify is already the most successful music sharing platform \\[…\\]",
+      "published_by": "www.wired.com"
+    },
+    {
+      "url": "http://www.economist.com/node/14140633",
+      "date_published": "30-Jul-09",
+      "title": "Spotify v illegal downloads - Free but legal",
+      "description": "Advertising-supported music will not save a troubled industry. But it helps",
+      "published_by": "www.economist.com"
+    },
+    {
+      "url": "http://lifehacker.com/5330148/spotify-is-the-best-desktop-music-player-weve-ever-used",
+      "date_published": "6-Aug-09",
+      "title": "Spotify Is the Best Desktop Music Player We've Ever Used",
+      "description": "Imagine a music app with instant access to any song you wanted to hear. Imagine creating a playlist from those songs and quickly, easily sharing it with friends. Such an app does exist, it&#039;s called Spotify, and it could change music forever.",
+      "published_by": "lifehacker.com"
+    },
+    {
+      "url": "http://www.techhive.com/article/169811/Documents_Reveal_Major_Labels_Own_Part_of_Spotify.html",
+      "date_published": "7-Aug-09",
+      "title": "Streaming Music Site, Spotify, Has Major Music Label Ownership",
+      "description": "Some of the world's largest music companies are among the owners of Swedish streaming music service Spotify, with the record labels buying their shares cheaply.",
+      "published_by": "www.techhive.com"
+    },
+    {
+      "url": "http://www.telegraph.co.uk/technology/news/6174078/Spotify-reverts-to-invite-only-sign-up.html",
+      "date_published": "11-Sep-09",
+      "title": "Spotify reverts to invite-only sign-up - Telegraph",
+      "description": "Overwhelming demand for Spotify's mobile service has forced the \n  music-streaming company to introduce a temporary waiting list.",
+      "published_by": "www.telegraph.co.uk"
+    },
+    {
+      "url": "https://gigaom.com/2009/09/17/spotify-is-the-new-napster-but-which-one/",
+      "date_published": "17-Sep-09",
+      "title": "Spotify Is the New Napster – But Which One? – Gigaom",
+      "description": "Out of all the startups that have tried to reinvent the way we listen to music over the past decade, few have…",
+      "published_by": "gigaom.com"
+    }
+  ],
+  "youtube": [
+    {
+      "url": "http://mashable.com/2005/12/26/youtube-the-king-of-video-sharing/#yjfNNC7eikqt",
+      "date_published": "26-Dec-05",
+      "title": "YouTube - The King of Video Sharing?",
+      "description": "Nathan Weinberg at Inside Google is claiming that YouTube has moved ahead of Google Video in terms of popularity. I totally agree.",
+      "published_by": "mashable.com"
+    },
+    {
+      "url": "http://news.bbc.co.uk/2/hi/business/6034577.stm",
+      "date_published": "10-Oct-06",
+      "title": "BBC NEWS",
+      "description": "Google buys video-sharing website YouTube for $1.65bn in shares after days of speculation.",
+      "published_by": "news.bbc.co.uk"
+    }
+  ],
+  "snapchat": [
+    {
+      "url": "http://bits.blogs.nytimes.com/2012/05/06/disruptions-indiscreet-photos-glimpsed-then-gone/?_r=0",
+      "date_published": "6-May-12",
+      "title": "Disruptions: Indiscreet Photos, Glimpsed Then Gone - The New York Times",
+      "description": "A free and increasingly popular iPhone app called Snapchat allows a person to take and send a picture and control how long it is visible by the person who receives it, up to 10 seconds. After that, the picture disappears and can’t be seen again.",
+      "published_by": "bits.blogs.nytimes.com"
+    },
+    {
+      "url": "http://thenextweb.com/apps/2012/05/07/snapchat-for-ios-lets-you-send-photos-to-friends-and-set-how-long-theyre-visible-for/",
+      "date_published": "8-May-12",
+      "title": "Snapchat for iOS lets you send photos to friends and set how long they’re visible for",
+      "description": "\n                            TNW uses cookies to personalize content and ads to\n                            make our site easier for you to use.\n                            We do also share that information with third parties for\n                            advertising & analytics.\n                        ",
+      "published_by": "thenextweb.com"
+    },
+    {
+      "url": "http://mashable.com/2012/10/29/snapchat-launches-android/#yjfNNC7eikqt",
+      "date_published": "30-Oct-12",
+      "title": "Photo-Messaging App 'Snapchat' Launches on Android",
+      "description": "Snapchat, an extremely popular photo-sharing app for the iPhone, is now available on Android devices. ",
+      "published_by": "mashable.com"
+    },
+    {
+      "url": "http://www.dailymail.co.uk/news/article-2236586/The-problem-Snapchat-How-iPhones-new-app-promoting-sexting-teenagers.html",
+      "date_published": "21-Nov-12",
+      "title": "The problem with Snapchat: How iPhone's new app is promoting sexting among teenagers",
+      "description": "Company CEO Evan Spiegel acknowledged these concerns, admitting, 'The minute you tell someone that images on your server disappear, everyone jumps to sexting.'",
+      "published_by": "www.dailymail.co.uk"
+    },
+    {
+      "url": "http://www.forbes.com/sites/jjcolao/2012/11/27/snapchat-the-biggest-no-revenue-mobile-app-since-instagram/#2b2caf3a3ac1",
+      "date_published": "27-Nov-12",
+      "title": "Snapchat: The Biggest No-Revenue Mobile App Since Instagram",
+      "description": "In April 2011 Evan Spiegel stood up in a Stanford product design class to present an idea for his final project. It would be a mobile app, he explained, where friends could share photos that would disappear—forever—in a matter of seconds. “Everyone said, ‘That is a terrible idea,’” Spiegel remembers. “Not [...]",
+      "published_by": "www.forbes.com"
+    },
+    {
+      "url": "http://www.businessinsider.com/snapchat-growth-sexting-2012-11?IR=T&r=US&IR=T",
+      "date_published": "30-Nov-12",
+      "title": "Snapchat's Growth Could Be From Sexting - Business Insider",
+      "description": "\n    \n  \n  \n  \n  \n  \n    \n  \n  \n  \n    \n      \n      \n        \n      \n      \n    \nWhen we first heard about Snapchat, the photo-sharing app that lets you set how long the recipient can view a picture for, we immediately thought that it must be used for sexting.",
+      "published_by": "www.businessinsider.com"
+    },
+    {
+      "url": "http://thoughtcatalog.com/gaby-dunn/2012/12/possible-uses-for-snapchat-besides-sexting/",
+      "date_published": "11-Dec-12",
+      "title": "Possible Uses For Snapchat Besides Sexting",
+      "description": "I’d never heard of Snapchat until my much-cooler 21-year-old sister spent most of Thanksgiving glued to her phone. I asked her what she was doing and she took a picture of unsuspecting, little me. Then, she sent it to her friend. But! Magically, there was no evidence of the photo on her phone and her friend would only be able to open it for 3 seconds. What!",
+      "published_by": "thoughtcatalog.com"
+    },
+    {
+      "url": "http://www.theverge.com/2012/12/17/3777388/facebook-snapchat-app",
+      "date_published": "17-Dec-12",
+      "title": "Why Facebook’s rumored Snapchat messaging clone can’t win - The Verge",
+      "description": "Rumors are swirling that Facebook is readying its own version of Snapchat, the massively popular new messaging app that lets you send pictures (and now video) to friends and have them self-destruct...",
+      "published_by": "www.theverge.com"
+    }
+  ],
+  "reddit": [
+    {
+      "url": "https://www.flickr.com/photos/33809408@N00/315068778",
+      "date_published": "23-Jun-05",
+      "title": "reddit on June23-05",
+      "description": "the first thing we got online.  yes, the downing street memo was the first ever reddit submission.",
+      "published_by": "www.flickr.com"
+    },
+    {
+      "url": "https://www.wired.com/2005/09/stars-rise-at-startup-summer-camp/",
+      "date_published": "13-Sep-05",
+      "title": "Stars Rise at Startup Summer Camp",
+      "description": "Infogami's Aaron Swartz (left), wearing a Foo camp T-shirt, Steve Huffman (center) of Reddit and Zak Stone (right) of Memamp share ideas on Y Combinator's office couch. View Slideshow Having just finished his sophomore year at Stanford University, Sam Altman spent this summer holed up in a Cambridge, Massachusetts, apartment paid for with a little \\[…\\]",
+      "published_by": "www.wired.com"
+    },
+    {
+      "url": "https://www.theguardian.com/technology/2005/dec/08/innovations.guardianweeklytechnologysection1",
+      "date_published": "8-Dec-05",
+      "title": "Innovations: Reddit.com",
+      "description": "A new website makes it easier to sift the mountains of news content online - and learns what you like.",
+      "published_by": "www.theguardian.com"
+    },
+    {
+      "url": "http://www.aaronsw.com/weblog/feedit",
+      "date_published": "24-May-06",
+      "title": "Introducing feeds.reddit (Aaron Swartz's Raw Thought)",
+      "description": "Over the past few weeks, I’ve been working on another new project. I think it’s finally time to tell people about it and what better place to start then here? So here’s the site:",
+      "published_by": "www.aaronsw.com"
+    },
+    {
+      "url": "http://www.zdnet.com/article/collaborative-filtering-comparing-reddits-karma-system-to-digg/",
+      "date_published": "16-Jan-06",
+      "title": "Collaborative filtering: comparing Reddit's karma system to Digg",
+      "description": "In recent weeks I've given Digg.com a bit of coverage, albeit of the kind they wouldn't have enjoyed.",
+      "published_by": "www.zdnet.com"
+    },
+    {
+      "url": "http://rosspw.com/what-is-reddit-and-why-should-anyone-care/",
+      "date_published": "28-Sep-06",
+      "title": "Ross Popoff-Walker » What is reddit and why should anyone care?",
+      "description": "At the top of the page it reads: “reddit is a source for what’s new and popular online. reddit learns what you like as you vote on existing links or submit your own!”",
+      "published_by": "rosspw.com"
+    },
+    {
+      "url": "https://techcrunch.com/2006/10/31/breaking-news-conde-nastwired-acquires-reddit/",
+      "date_published": "31-Oct-06",
+      "title": "Breaking News: Condé Nast/Wired Acquires Reddit – TechCrunch",
+      "description": "We just received confirmation that Condé Nast, owner of Wired and other magazines/websites, acquired Boston-based Reddit earlier this morning, and will make the announcement later today. The price is not being disclosed. All four reddit employees will relocate from Boston to Wired’s San Francisco office and become part of Wired Digital. Reddit, founded and funded […]",
+      "published_by": "techcrunch.com"
     }
   ]
 }
