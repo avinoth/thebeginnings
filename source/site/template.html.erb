@@ -23,7 +23,7 @@ title: The Beginnings
       <div class="col-md-8 col-md-offset-2">
         <h3 style="color: white;"><%= Date.parse(site_data.date_published).strftime('%b %d, %Y') rescue site_data.date_published %></h3>
         <hr />
-        <a href=<%= site_data.url %> target="_blank">
+        <a href=<%= site_data.url %>>
           <div class="panel panel-default url-bar">
             <div class="panel-body text-left">
               <p class="lead"> <%= site_data.title %></p>
